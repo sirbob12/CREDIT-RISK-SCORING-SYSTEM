@@ -147,6 +147,6 @@ Feel free to fork this repository and contribute improvements.
 ---
 
 ## 📬 Contact
-**Bob Osho**  
+**Bobby Oshodin**  
 - GitHub: https://github.com/sirbob12  
-- LinkedIn: [your link]
+- LinkedIn: [linkedin.com/in/bobbyoshodin]
