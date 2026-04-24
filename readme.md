@@ -30,6 +30,26 @@ This project uses the **German Credit Dataset**, a widely used benchmark dataset
 
 ## ⚙️ Project Structure
 
+```
+│
+├── notebooks/
+│ └── credit_risk_analysis.ipynb
+│
+├── src/
+│ ├── preprocessing.py
+│ ├── feature_engineering.py
+│ ├── model.py
+│ ├── evaluation.py
+│ ├── decision_engine.py
+│
+├── data/
+│ └── german_credit_data.csv
+│
+├── README.md
+└── requirements.txt
+
+```
+
 
 ## 🧠 Methodology
 
@@ -96,14 +116,6 @@ Instead of fixed rules, the model uses **data-driven threshold optimization** to
 
 ---
 
-## 🧾 Model Explainability (SHAP)
-SHAP (SHapley Additive exPlanations) is used to:
-
-- Identify **key drivers of default risk**  
-- Explain individual predictions  
-- Improve transparency in decision-making  
-
----
 
 ## 🛠️ Tech Stack
 - Python  
